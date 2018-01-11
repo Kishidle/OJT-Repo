@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dudegrim/Documents/GeeBeeView/app/libs/mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="/home/dudegrim/Documents/GeeBeeView/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-2-4_4afffaa416b39c40b1b1e732619bcf1ed5be3a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dudegrim/Documents/GeeBeeView/app/libs/imagezoom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="038f5a2082e2d8be1576402bf0e749204197d4f0">
+        <dex dex="/home/dudegrim/Documents/GeeBeeView/app/build/intermediates/pre-dexed/debug/imagezoom_9c1658946d3851763a3ea9533fec1d477486017d.jar" />
+    </item>
+
+</items>
